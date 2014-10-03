@@ -5,6 +5,13 @@ TODO
 
 ===============================================
 
+#### UiGradient 
+
+Auto-generates "the nicest and harmonious color combinations of gradients."
+
+- http://uigradients.com/#Namn
+
+
 #### Markdown Table
 
 A tool that makes it a bit easier to format a table for Markdown. 

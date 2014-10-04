@@ -5,6 +5,10 @@ TODO
 
 ===============================================
 
+### CSS Centering - A Decision Tree
+Centering things in CSS, it doesn't have to be so hard.
+- http://css-tricks.com/centering-css-complete-guide/
+
 #### UiGradient 
 
 Auto-generates "the nicest and harmonious color combinations of gradients."
